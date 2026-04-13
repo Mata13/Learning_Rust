@@ -1,0 +1,16 @@
+# ── Rust / Cargo ──────────────────────────────
+# Binarios compilados — pueden pesar 500MB+
+/target
+
+# ── Herramientas locales de VSCode ────────────
+.qodo/
+.vscode/
+
+# ── Sistema Windows ───────────────────────────
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ── Variables de entorno (futuro) ─────────────
+.env
+.env.local
